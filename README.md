@@ -46,7 +46,7 @@ For academic inquiries, collaborations, or questions, please contact:
 
 **Name**: [Souma Ohno]  
 **Email**: [soma.ono3@gmail.com]  
-**X**: [[@TFT_founder](https://x.com/TFT_founder)]                    
+(https://x.com/TFT_founder)]                    
 **Affiliation**: Kyushu Institute of Technology 
 
 > **Note**: Although the author is formally affiliated with Kyushu Institute of Technology,  
